@@ -8,7 +8,7 @@ ScamShield AI is a machine learning-based system that analyzes SMS messages and 
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** YOUR-STREAMLIT-APP-URL
+🔗 **Live App:**  https://scamshield-aigit-ynry5wma6qvdvycou72lwx.streamlit.app/
 
 ---
 
